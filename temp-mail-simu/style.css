@@ -1,0 +1,45 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #ff4b5c;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+}
+
+#generate-mail {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#generate-mail:hover {
+    background-color: #45a049;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #222;
+    color: white;
+}
+
+a {
+    color: #ff4b5c;
+    text-decoration: none;
+}
